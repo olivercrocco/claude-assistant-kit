@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Claude Code as Your Assistant: A Guided Setup and Starter Kit"
+message: If you use this guide or its templates, please cite it.
+type: software
+authors:
+  - family-names: Crocco
+    given-names: Oliver S.
+    orcid: https://orcid.org/0000-0001-8472-1224
+    affiliation: Louisiana State University
+version: "1.0"
+date-released: "2026-10-23"
+license: CC-BY-4.0
+url: https://olivercrocco.com/claude-assistant
+repository-code: https://github.com/olivercrocco/claude-assistant-kit
+keywords:
+  - Claude Code
+  - AI assistant
+  - executive assistant
+  - project management
+  - academic productivity
+  - CLAUDE.md
+abstract: >-
+  A guide and a set of templates for academics, managers, and leaders who want
+  to use Claude Code as an executive assistant and project manager, working
+  inside their own folders under rules they write. It covers the first hour of
+  setup, the three layers of configuration (CLAUDE.md files, memory, and skills
+  and scheduled tasks), six hard rules that prevent costly mistakes, the habits
+  that let the assistant improve over time, and a first-week plan. The templates
+  include a global CLAUDE.md, a work-folder CLAUDE.md, a task workbook, a weekly
+  review skill, a morning brief prompt, memory file examples, and a voice
+  profile outline. The companion web page adds a guided walkthrough and a
+  browser-based builder that writes the CLAUDE.md file.
