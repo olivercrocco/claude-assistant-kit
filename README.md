@@ -6,6 +6,8 @@ Live page, with a walkthrough and a builder that writes your CLAUDE.md rules fil
 
 It comes from a setup I have run daily for about six months across research, teaching, editorial work, and program administration, and first wrote up for a friend who wanted to work the same way. None of it requires programming.
 
+Two things before you start. Your organization's rules on AI tools govern everything here; find the policy first. And give Claude only what you have permission to share and would be comfortable seeing leaked. What other people entrusted to you (student records, participants' data, personnel files, client records, manuscripts under review) stays out unless you have that permission.
+
 ## What is here
 
 - `GUIDE.md` and `GUIDE.docx`: the full guide in ten sections: what Claude Code is, what a day looks like, the first hour of setup, what goes where (CLAUDE.md, memory, skills, scheduled tasks), the hard rules to copy on day one, habits that make it work, a first-week plan, prompts to try, the templates, and what to do when things go wrong.
